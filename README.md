@@ -1,6 +1,7 @@
 run_analysis.R
+========
 created:08/02/2015
-
+--------
 The R script takes requires the full <UCI HAR Dataset> folder in your work directory.
 At first, it checks whether the folder is present.
 It then prepares all descriptive variables, containing the future column names for the tidy data set.
